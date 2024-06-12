@@ -1,0 +1,26 @@
+{
+    "model_id_or_path": "stabilityai/sd-turbo",
+    "t_index_list": [
+        10,
+        35
+    ],
+    "prompt": "default fancy banana",
+    "negative_prompt": "negative prompts do nothing",
+    "frame_buffer_size": 1,
+    "width": 512,
+    "height": 512,
+    "acceleration": "none",
+    "use_denoising_batch": true,
+    "seed": 2416333,
+    "cfg_type": "self",
+    "guidance_scale": 1.0,
+    "delta": 1.0,
+    "do_add_noise": true,
+    "enable_similar_image_filter": false,
+    "similar_image_filter_threshold": 0.99,
+    "similar_image_filter_max_skip_frame": 1,
+    "osc_in_port": 3575,
+    "osc_out_port": 3579,
+    "sdmode": "img2img",
+    "lora_dict": null
+}

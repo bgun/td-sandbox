@@ -1,0 +1,13 @@
+git+https://github.com/cumulo-autumn/StreamDiffusion.git@main#egg=streamdiffusion[tensorrt]
+
+opencv-python
+pywin32
+numpy
+Pillow
+fire
+mss
+ndi-python
+matplotlib
+python-osc
+SpoutGL
+PyOpenGL
